@@ -11,4 +11,4 @@ function post() {
       console.log(XHR.response);
     };
   });
-}
+}　
